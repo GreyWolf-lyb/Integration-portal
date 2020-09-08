@@ -1,0 +1,2 @@
+webpackJsonp([14],{HhI9:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var s={components:{List:n("hXc6").a}},r={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"remind-information"},[e("List",{attrs:{title:"消息提醒"}})],1)},staticRenderFns:[]},i=n("C7Lr")(s,r,!1,null,null,null);e.default=i.exports}});
+//# sourceMappingURL=14.cb68b5928a932f9715fe.js.map

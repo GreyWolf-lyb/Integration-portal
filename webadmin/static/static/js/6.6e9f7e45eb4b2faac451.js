@@ -1,0 +1,2 @@
+webpackJsonp([6],{"83wX":function(t,e){},"bE5+":function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var s={components:{List:n("hXc6").a},data:function(){return{}},methods:{}},r={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"toDo-list"},[e("List",{attrs:{title:"代办事项"}})],1)},staticRenderFns:[]};var i=n("C7Lr")(s,r,!1,function(t){n("83wX")},null,null);e.default=i.exports}});
+//# sourceMappingURL=6.6e9f7e45eb4b2faac451.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([8],{"+PeO":function(t,e,s){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var n={components:{List:s("hXc6").a}},r={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"wait-for"},[e("List",{attrs:{title:"代办任务"}})],1)},staticRenderFns:[]},i=s("C7Lr")(n,r,!1,null,null,null);e.default=i.exports}});
+//# sourceMappingURL=8.44f82d00bd7f54ff625f.js.map

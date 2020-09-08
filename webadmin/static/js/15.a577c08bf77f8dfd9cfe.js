@@ -1,0 +1,2 @@
+webpackJsonp([15],{t2Co:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var s={components:{List:n("hXc6").a}},i={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"notice-information"},[e("List",{attrs:{title:"通知公告"}})],1)},staticRenderFns:[]},r=n("C7Lr")(s,i,!1,null,null,null);e.default=r.exports}});
+//# sourceMappingURL=15.a577c08bf77f8dfd9cfe.js.map

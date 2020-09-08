@@ -1,0 +1,2 @@
+webpackJsonp([11],{"2NsN":function(t,e,s){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var n={components:{List:s("hXc6").a}},r={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"waitfor-matter"},[e("List",{attrs:{title:"待阅事项"}})],1)},staticRenderFns:[]},a=s("C7Lr")(n,r,!1,null,null,null);e.default=a.exports}});
+//# sourceMappingURL=11.f0b4650e35ca6e4dd7c4.js.map

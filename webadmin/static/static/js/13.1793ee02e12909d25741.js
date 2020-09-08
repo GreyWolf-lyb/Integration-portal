@@ -1,0 +1,2 @@
+webpackJsonp([13],{JRY2:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var s={components:{List:n("hXc6").a}},i={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"station-information"},[e("List",{attrs:{title:"站内消息"}})],1)},staticRenderFns:[]},r=n("C7Lr")(s,i,!1,null,null,null);e.default=r.exports}});
+//# sourceMappingURL=13.1793ee02e12909d25741.js.map
